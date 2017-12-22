@@ -1,0 +1,16 @@
+[
+{
+  "modid": "winter_weather",
+  "name": "Winter Weather Mod",
+  "description": "Make it always snow :)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Prplz","Sk1er"],
+  "credits": "Prplz for actually making any of this code work",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
